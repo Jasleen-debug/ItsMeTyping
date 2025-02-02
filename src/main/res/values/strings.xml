@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ItsMeTyping</string>
+    <string name="add_post">Add Post</string>
+    <string name="settings">Settings</string>
+    <string name="add_title">Add Title...</string>
+    <string name="add_description">Add Description...</string>
+    <string name="create_a_new_blog_post">Create a New Post!</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="logout">Log Out </string>
+    <string name="log_in">Log In</string>
+    <string name="do_not_have_an_account_register_here">Do not have an account? Register Here</string>
+    <string name="already_registered_sign_in">Already Registered? Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered_yet_sign_up">Not Registered yet? Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="setupname">Name</string>
+    <string name="save_account_settings">Save Account Settings</string>
+    <string name="like_count">0 Likes</string>
+</resources>
